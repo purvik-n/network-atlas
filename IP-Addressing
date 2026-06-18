@@ -1,0 +1,27 @@
+# IP Addressing
+
+## What is an IP Address?
+
+An IP address is a unique identifier assigned to a device on a network.
+
+Example:
+192.168.1.10
+
+## Types
+
+- Public IP
+- Private IP
+
+## Private IP Ranges
+
+10.0.0.0/8
+
+172.16.0.0 - 172.31.255.255
+
+192.168.0.0/16
+
+## Key Learnings
+
+- Every device needs an IP address
+- IP addresses identify devices
+- Routers use IP addresses to forward packets
